@@ -1,15 +1,9 @@
 ---
-title: "Paper Title Number 1"
+title: "Diffusion in stochastically perturbed Hamiltonian systems with applications to the recent LHC dynamic aperture experiments"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2019-diffusion
+date: 2019
+venue: 'Nonlinear Dynamics and Collective Effects in Particle Beam Physics: Proceedings of the International Committee on Future Accelerators Arcidosso Italy 2017'
+link: 'https://doi.org/10.1142/9789813279612_0005'
+citation: 'Bazzani, A., Mazzarisi, O., Giovannozzi, M., & Maclean, E. (2019). Diffusion in stochastically perturbed Hamiltonian systems with applications to the recent LHC dynamic aperture experiments. In Nonlinear Dynamics and Collective Effects in Particle Beam Physics: Proceedings of the International Committee on Future Accelerators Arcidosso Italy 2017 (pp. 70-85).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
