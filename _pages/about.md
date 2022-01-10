@@ -15,5 +15,5 @@ My background is in theoretical physics and my PhD focused on nonequilibrium sta
 While maintaining an interest in the fundamentals and methods of statistical physics, 
 the focus of my research has mostly shifted to its interface with ecology and evolution.
 
-Current topics I am working on include the link between ecological dynamics
+Current topics I am working on include links between ecological dynamics
 and statistical macro-ecological laws and multiplicative stochastic processes in relation to the evolution of cooperation.
