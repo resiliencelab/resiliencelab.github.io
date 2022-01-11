@@ -17,4 +17,4 @@ the focus of my research has mostly shifted to its interface with ecology and ev
 
 Current topics I am working on include links between ecological dynamics
 and statistical macro-ecological laws and multiplicative stochastic processes in relation to the evolution of cooperation
-(with [Jacopo Grilli's group at ICTP](https://jacopogrilli.github.io/)).
+(In collaboration with [Jacopo Grilli's group at ICTP](https://jacopogrilli.github.io/)).
