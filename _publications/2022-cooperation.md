@@ -1,5 +1,5 @@
 ---
-title: "(<i>preprint</i>) Stable cooperation emerges in stochastic multiplicative growth"
+title: "Stable cooperation emerges in stochastic multiplicative growth (<i>preprint</i>)"
 collection: publications
 permalink: /publication/2022-cooperation
 date: 2022-02-6
