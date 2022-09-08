@@ -3,7 +3,7 @@ title: "How many phases nucleate in the bidimensional Potts model? (<i>preprint<
 collection: publications
 permalink: /publication/2021-phases
 date: 2021-02-1
-venue: 'preprint'
-link: 'https://arxiv.org/abs/2102.01003'
-citation: 'Corberi, Federico, Leticia F. Cugliandolo, Marco Esposito, Onofrio Mazzarisi, and Marco Picco. &quot;How many phases nucleate in the bidimensional Potts model?.&quot; <i>arXiv preprint</i> arXiv:2102.01003 (2021).'
+venue: 'Journal of Statistical Mechanics: Theory and Experiment'
+link: 'https://doi.org/10.1088/1742-5468/ac7aa9'
+citation: 'Corberi, Federico, Leticia F. Cugliandolo, Marco Esposito, Onofrio Mazzarisi, and Marco Picco. &quot;How many phases nucleate in the bidimensional Potts model?.&quot; <i>Journal of Statistical Mechanics: Theory and Experiment</i> 2022, no. 7 (2022): 073204.'
 ---
