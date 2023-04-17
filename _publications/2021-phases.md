@@ -1,5 +1,5 @@
 ---
-title: "How many phases nucleate in the bidimensional Potts model? (<i>preprint</i>)"
+title: "How many phases nucleate in the bidimensional Potts model?"
 collection: publications
 permalink: /publication/2021-phases
 date: 2021-02-1
