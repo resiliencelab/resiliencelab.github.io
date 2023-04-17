@@ -8,10 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-![](/images/MurDePissadùTop-cut.jpg)
-<sup><sub>View from Mur de Pissadù, Sella group, Dolomites</sub></sup>
-
-
 Welcome! I am a postdoctoral researcher in the [Department of Ecology & Evolutionary Biology at the University of Kansas](https://eeb.ku.edu/)
 in [Reuman Lab](https://reumanlab.ku.edu/).
 
@@ -22,3 +18,6 @@ at the [Max Planck Institute for Mathematics in the Science, Leipzig](https://ww
 
 Current topics I am working on include links between population dynamics
 and macro-ecological patterns and statistical analysis of time series.
+
+![](/images/MurDePissadùTop-cut.jpg)
+<sup><sub>View from Mur De Pissadù, Sella group, Dolomites</sub></sup>
