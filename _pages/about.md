@@ -1,3 +1,11 @@
+---
+permalink: /
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 Welcome! I am a postdoctoral researcher in the [Department of Ecology & Evolutionary Biology at the University of Kansas](https://eeb.ku.edu/)
 in [Reuman Lab](https://reumanlab.ku.edu/).
 
