@@ -8,6 +8,10 @@ redirect_from:
   - /about.html
 ---
 
+![](/images/MurDePissadùTop-cut.jpg)
+<sup><sub>View from Mur de Pissadù, Sella group, Dolomites</sub></sup>
+
+
 Welcome! I am a postdoctoral researcher in the [Department of Ecology & Evolutionary Biology at the University of Kansas](https://eeb.ku.edu/)
 in [Reuman Lab](https://reumanlab.ku.edu/).
 
