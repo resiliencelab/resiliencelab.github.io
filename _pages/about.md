@@ -15,7 +15,7 @@ the focus of my research mostly shifted to its interface with ecology and evolut
 at the [Max Planck Institute for Mathematics in the Science, Leipzig](https://www.mis.mpg.de/).
 
 Current topics I am working on include links between population dynamics
-and macro-ecological patterns and statistical analysis of time series.
+and macro-ecological patterns and analysis of stochastic time series.
 
 ![](/images/MurDePissadùTop-cut.jpg)
 <sup><sub>View from Mur De Pissadù, Sella group, Dolomites</sub></sup>
