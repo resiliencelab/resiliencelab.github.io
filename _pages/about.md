@@ -18,4 +18,4 @@ Current topics I am working on include links between population dynamics
 and macro-ecological patterns and analysis of stochastic time series.
 
 ![](/images/MurDePissadùTop-cut.jpg)
-<sup><sub>View from Mur De Pissadù, Sella group, Dolomites</sub></sup>
+<sup><sub>View from Mur De Pissadù, Sella group, Dolomites, Italy</sub></sup>
