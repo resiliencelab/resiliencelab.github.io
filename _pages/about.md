@@ -6,7 +6,7 @@ redirect_from:
   - /about.html
 ---
 ![](/images/Castle-Rock-Badlands-Kansas.jpg)
-<sup><sub>View from Mur De Pissadù, Sella group, Dolomites, Italy</sub></sup>
+<sup><sub>Castle Rock Badlands, Kansas, USA</sub></sup>
 
 Welcome! I am a postdoctoral researcher in the [Department of Ecology & Evolutionary Biology at the University of Kansas](https://biosurvey.ku.edu/people/onofrio-mazzarisi)
 in [Reuman Lab](https://reumanlab.ku.edu/).
