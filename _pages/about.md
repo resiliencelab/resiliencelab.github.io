@@ -5,6 +5,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 ![](/images/Castle-Rock-Badlands-Kansas.jpg)
 <sup><sub>Castle Rock Badlands, Kansas, USA</sub></sup>
 
