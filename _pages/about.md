@@ -5,6 +5,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+![](/images/Castle-Rock-Badlands-Kansas.jpg)
+<sup><sub>View from Mur De Pissadù, Sella group, Dolomites, Italy</sub></sup>
 
 Welcome! I am a postdoctoral researcher in the [Department of Ecology & Evolutionary Biology at the University of Kansas](https://biosurvey.ku.edu/people/onofrio-mazzarisi)
 in [Reuman Lab](https://reumanlab.ku.edu/).
@@ -16,6 +18,3 @@ at the [Max Planck Institute for Mathematics in the Science, Leipzig](https://ww
 
 Current topics I am working on include population dynamics and how it is linked to macro-ecological patterns,
 the evolutionary stability of cooperative strategies and the analysis of stochastic time series.
-
-![](/images/MurDePissadùTop-cut.jpg)
-<sup><sub>View from Mur De Pissadù, Sella group, Dolomites, Italy</sub></sup>
