@@ -9,7 +9,7 @@ redirect_from:
 ![](/images/MurDePissadùTop-cut.jpg)
 <sup><sub>View from Mur del Pissadù, Dolomites, Italy</sub></sup>
 
-Welcome! I am a postdoctoral researcher at the [Abdus Salam International Centre for Theoretical Physics](https://www.ictp.it/) and at the [Istituto Nazionale di Oceanografia e di Geofisica Sperimentale](https://www.ogs.it/it) in the framework of the [Trieste Laboratory on Quantitative Sustainability](https://fondazioneinternazionale.org/tlqs-en/) project.
+Welcome! I am a postdoctoral researcher at the [Abdus Salam International Centre for Theoretical Physics](https://www.ictp.it/) (in [Jacopo Grilli](https://jacopogrilli.github.io/) group) and at the [Istituto Nazionale di Oceanografia e di Geofisica Sperimentale](https://www.ogs.it/it) in the framework of the [Trieste Laboratory on Quantitative Sustainability](https://fondazioneinternazionale.org/tlqs-en/) project.
 
 Themes I am currently working on include links between community dynamics and macro-ecological patterns, microbial ecology and physiology and analysis of stochastic time series.
 
