@@ -15,6 +15,4 @@ The focus of my research mostly shifted to its interface with ecology and evolut
 at the [Max Planck Institute for Mathematics in the Science, Leipzig](https://www.mis.mpg.de/) and the [Department of Ecology & Evolutionary Biology at the University of Kansas](https://biosurvey.ku.edu/people/onofrio-mazzarisi)
 in [Reuman Lab](https://reumanlab.ku.edu/).
 
-<div style="width:70%; margin: auto;">
-
-![](/images/20240626_230013.png )
+![](/images/bacteria-pictorial.png)
