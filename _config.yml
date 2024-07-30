@@ -265,7 +265,7 @@ defaults:
   # _thm1_resilience
   - scope:
       path: ""
-      type: thm1_resilience
+      type: join
     values:
       layout: single
       author_profile: true
@@ -274,7 +274,7 @@ defaults:
   # _thm2_landscapes
   - scope:
       path: ""
-      type: thm2_landscapes
+      type: join
     values:
       layout: single
       author_profile: true
@@ -283,7 +283,7 @@ defaults:
   # _thm3_networks
   - scope:
       path: ""
-      type: thm3_networks
+      type: join
     values:
       layout: single
       author_profile: true
