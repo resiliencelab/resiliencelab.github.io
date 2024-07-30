@@ -253,6 +253,15 @@ defaults:
       author_profile: true
       share: true
       comment: true
+  # _join
+  - scope:
+      path: ""
+      type: join
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
       
 # Sass/SCSS
 sass:
