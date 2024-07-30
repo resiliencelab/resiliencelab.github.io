@@ -6,11 +6,11 @@ main:
  #- title: "Publications"
  #  url: /publications/
     
-  - title: "Resilience"
-    url: /thm1_resilience/
+#  - title: "Resilience"
+ #   url: /thm1_resilience/
 
-  - title: "Landscapes"
-    url: /thm2_landscapes/
+#  - title: "Landscapes"
+ #   url: /thm2_landscapes/
 
-  - title: "Networks"
-    url: /them2_networks/
+ # - title: "Networks"
+#    url: /them2_networks/
