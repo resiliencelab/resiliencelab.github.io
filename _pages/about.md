@@ -20,4 +20,4 @@ We build simple dynamical models that incorporate competing ecological hypothese
 Note that we are primarily excited for fundamental rather than applied questions. While we often find insights into management and climate change, whether they arise is often difficult to anticipate in basic research.
 
 
-![](/images/bacteria-pictorial.png)
+![](/files/7D289825-13D6-4A05-AB4D-4A48BDA6C7C4_1_201_a.jpeg)
