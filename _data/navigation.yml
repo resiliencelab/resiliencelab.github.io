@@ -7,10 +7,10 @@ main:
  #  url: /publications/
     
   - title: "Resilience"
-    url: /thm1_resilience/
+    url: /thm1-resilience/
 
   - title: "Landscapes"
-    url: /thm2_landscapes/
+    url: /thm2-landscapes/
 
   - title: "Networks"
-    url: /thm3_networks/
+    url: /thm3-networks/
