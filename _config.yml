@@ -262,7 +262,7 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _thm1_resilience
+  # _thm1-resilience
   - scope:
       path: ""
       type: join
@@ -271,7 +271,7 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _thm2_landscapes
+  # _thm2-landscapes
   - scope:
       path: ""
       type: join
@@ -280,7 +280,7 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _thm3_networks
+  # _thm3-networks
   - scope:
       path: ""
       type: join
