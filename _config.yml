@@ -262,6 +262,33 @@ defaults:
       author_profile: true
       share: true
       comment: true
+  # _thm1_resilience
+  - scope:
+      path: ""
+      type: thm1_resilience
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _thm2_landscapes
+  - scope:
+      path: ""
+      type: thm2_landscapes
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _thm3_networks
+  - scope:
+      path: ""
+      type: thm3_networks
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
 
       
 # Sass/SCSS
