@@ -1,10 +1,16 @@
 # main links links
 main:
- #- title: "Research"
- #  url: /research/
+ - title: "Join Us"
+   url: /join/
     
  #- title: "Publications"
  #  url: /publications/
     
-  #- title: "CV"
-  #  url: /cv/
+  - title: "Resilience"
+    url: /thm1_resilience/
+
+  - title: "Landscapes"
+    url: /thm2_landscapes/
+
+  - title: "Networks"
+    url: /them2_networks/
