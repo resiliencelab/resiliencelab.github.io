@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Onofrio Mazzarisi"
+title                    : "Quantitative Resilience Lab"
 title_separator          : "-"
-name                     : &name "Onofrio Mazzarisi"
-description              : &description "Postdoctoral researcher"
+name                     : &name "Biology Department"
+description              : &description "University of Maryland College Park"
 url                      : https://resiliencelab.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "resiliencelab/resiliencelab.github.io"
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Onofrio Mazzarisi"
+  name             : "Vadim Karatayev"
   avatar           : "profile-gree2.jpg"
-  bio              : "Postdoctoral researcher"
-  location         : "Trieste, Italy"
+  bio              : "Assistant Professor"
+  location         : "College Park, Maryland"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=G1WQQN4AAAAJ&hl=en"
