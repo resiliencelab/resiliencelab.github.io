@@ -253,42 +253,7 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _join
-  - scope:
-      path: ""
-      type: join
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
-  # _thm1-resilience
-  - scope:
-      path: ""
-      type: join
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
-  # _thm2-landscapes
-  - scope:
-      path: ""
-      type: join
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
-  # _thm3-networks
-  - scope:
-      path: ""
-      type: join
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
+
 
       
 # Sass/SCSS
