@@ -7,6 +7,11 @@ redirect_from:
   - /thm3-networks
 ---
 
-<iframe src="/files/Karatayev CVp_1-11-2024.pdf.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+Are species-rich ecosystems more stable and resilient? 
 
-You can download a PDF copy of my CV [here](/files/Karatayev CVp_1-11-2024.pdf).
+To explore this we study the equilibrium and nonequilibrium dynamics of networks where interactions (a) are nonlinear, (b) change over time, or (c) take multiple forms.
+
+<ins>Dynamic species interactions.</ins> Longstanding, beautiful theory suggests not: large, strongly interconnected systems should fall apart. Could stability and diversity coexist when, in reality, species interactions are highly intermittent in space and time? I am currently looking for a postdoc to work on this question.
+
+<ins>Does diversity promote resilience?</ins> It is tempting to say ‘yes’, as less-impacted species can help their partners recover from disturbance. Modelling consumer collapse in food webs, we found greater resilience with diversity in ecosystems where species have high functional redundancy. But with low functional redundancy, diversity creates weakest-link dynamics: the collapse of one vulnerable species cascades through an ecosystem.
+
