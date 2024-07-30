@@ -5,8 +5,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-Welcome!
 Hi! We’re a new lab in a (quite quantitative) Biology department, and right next to the Math and Computer Science departments at UMD College Park. We use dynamical models to understand the structure and resilience of biological systems - often marine ecosystems - in theory and in data. We use a ~50/50 mix of ecology and applied math, so check out the sections below for an idea of what we do and the tabs above for the questions we like.
 
 
@@ -18,8 +16,6 @@ Ecology perspective:
 We build simple dynamical models that incorporate competing ecological hypotheses, fit these models to spatiotemporal data, and see which model (ie, hypothesis) better explains patterns in nature. By fitting mechanistic models, we also get estimates of ecological rates, interactions, and resilience “for free”. These are critical for management but notoriously hard to measure in the field. 
 
 Note that we are primarily excited for fundamental rather than applied questions. While we often find insights into management and climate change, whether they arise is often difficult to anticipate in basic research.
-
-![image](https://github.com/user-attachments/assets/2c962cb5-458e-40ab-b2e3-2d60fa2f69c1)
 
 
 ![](/images/bacteria-pictorial.png)
