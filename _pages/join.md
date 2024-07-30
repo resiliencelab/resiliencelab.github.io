@@ -1,15 +1,12 @@
 ---
-title: "Teaching experience 1"
-permalink: /join
+layout: archive
+title: "Join Us"
+permalink: /join/
+author_profile: true
+redirect_from:
+  - /join
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+#<iframe src="/files/cv/cv.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+You can download a PDF copy of my CV [here](/files/cv/cv.pdf).
