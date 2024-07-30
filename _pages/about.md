@@ -6,13 +6,20 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a postdoctoral researcher at the [Abdus Salam International Centre for Theoretical Physics](https://www.ictp.it/) (in [Jacopo Grilli](https://jacopogrilli.github.io/) group) and at the [Istituto Nazionale di Oceanografia e di Geofisica Sperimentale](https://www.ogs.it/it) in the framework of the [Trieste Laboratory on Quantitative Sustainability](https://fondazioneinternazionale.org/tlqs-en/) project.
+Welcome!
+Hi! We’re a new lab in a (quite quantitative) Biology department, and right next to the Math and Computer Science departments at UMD College Park. We use dynamical models to understand the structure and resilience of biological systems - often marine ecosystems - in theory and in data. We use a ~50/50 mix of ecology and applied math, so check out the sections below for an idea of what we do and the tabs above for the questions we like.
 
-Themes I am currently working on include links between community dynamics and macro-ecological patterns, microbial ecology and physiology and analysis of stochastic time series.
 
-My background is in theoretical physics, and my PhD focused on nonequilibrium statistical mechanics.
-The focus of my research mostly shifted to its interface with ecology and evolution during my postdocs
-at the [Max Planck Institute for Mathematics in the Science, Leipzig](https://www.mis.mpg.de/) and the [Department of Ecology & Evolutionary Biology at the University of Kansas](https://biosurvey.ku.edu/people/onofrio-mazzarisi)
-in [Reuman Lab](https://reumanlab.ku.edu/).
+Math perspective:
+We explore how cycles, chaos, and phase shifts among attractors play out across networks - in particular, networks with heterogeneous nodes or dynamic interactions. For this, we use attractor reconstruction (aka Takens theorem) and Gaussian Processes (aka ‘deep’ ML) alongside classical approaches like ODEs, integrodifference DEs, random matrices, and maximum likelihood. Rather than developing methods, we typically focus on finding novel dynamics and the simplest models that capture them.
+
+
+Ecology perspective:
+We build simple dynamical models that incorporate competing ecological hypotheses, fit these models to spatiotemporal data, and see which model (ie, hypothesis) better explains patterns in nature. By fitting mechanistic models, we also get estimates of ecological rates, interactions, and resilience “for free”. These are critical for management but notoriously hard to measure in the field. 
+
+Note that we are primarily excited for fundamental rather than applied questions. While we often find insights into management and climate change, whether they arise is often difficult to anticipate in basic research.
+
+![image](https://github.com/user-attachments/assets/2c962cb5-458e-40ab-b2e3-2d60fa2f69c1)
+
 
 ![](/images/bacteria-pictorial.png)
