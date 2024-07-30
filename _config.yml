@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Quantitative Resilience Lab"
 title_separator          : "-"
-name                     : &name "Biology Department"
+name                     : &name "Vadim Karatayev"
 description              : &description "University of Maryland College Park"
 url                      : https://resiliencelab.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -86,8 +86,8 @@ author:
   location         : "College Park, Maryland"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=G1WQQN4AAAAJ&hl=en"
-  email            : "onofrio.mazzarisi@gmail.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=Ob4BaZAAAAAJ&view_op=list_works&sortby=pubdate"
+  email            : "vadimk@umd.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "onofriomazzarisi"
+  github           : "VadimKar"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : 
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0002-0234-3723"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : # "replacethistwitterhandle"
+  twitter          : "lifenonlinear"
   vine             :
   weibo            :
   xing             :
