@@ -5,7 +5,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi! We use dynamical models to understand the structure and resilience of biological systems - often marine ecosystems - in theory and in data. We use a ~50/50 mix of ecology and applied math, so check out the sections below for an idea of what we do and the tabs above for the questions we like.
+Hi! We seek to understand the structure and resilience of biological systems - often marine ecosystems - in theory and in data. We use a ~50/50 mix of ecology and applied math, so check out the sections below for an idea of what we do and the tabs above for the questions we like.
 <!-- We’re a new lab in a (quite quantitative) Biology department, and right next to the Math and Computer Science departments at UMD College Park. -->
 
 Math perspective: \
