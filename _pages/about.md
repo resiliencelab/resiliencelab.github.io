@@ -15,7 +15,7 @@ We explore how cycles, chaos, and phase shifts among attractors play out across 
 Ecology perspective: \
 We build simple dynamical models that incorporate competing ecological hypotheses, fit these models to spatiotemporal data, and see which model (ie, hypothesis) better explains patterns in nature. By fitting mechanistic models, we also get estimates of ecological rates, interactions, and resilience “for free”. These are critical for management but notoriously hard to measure in the field. 
 
-Note that we are primarily excited for fundamental rather than applied questions. While we often find insights into management and climate change, whether they arise is often difficult to anticipate in basic research.
+<!-- Note that we are primarily excited for fundamental rather than applied questions. While we often find insights into management and climate change, whether they arise is often difficult to anticipate in basic research. -->
 
 
 ![](/files/7D289825-13D6-4A05-AB4D-4A48BDA6C7C4_1_201_a.jpeg)
