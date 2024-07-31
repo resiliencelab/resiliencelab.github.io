@@ -16,7 +16,5 @@ To explore this we study the equilibrium and nonequilibrium dynamics of networks
 <ins>Does diversity promote resilience?</ins> It is tempting to say ‘yes’, as less-impacted species can help their partners recover from disturbance. Modelling consumer collapse in food webs, we found greater resilience with diversity in ecosystems where species have high functional redundancy. But with low functional redundancy, diversity creates weakest-link dynamics: the collapse of one vulnerable species cascades through an ecosystem.
 
 
-![](/files/kelp avatar.jpg)
+![](/files/coral reef diversity.png)
 
-
-![](/files/7D289825-13D6-4A05-AB4D-4A48BDA6C7C4_1_201_a.jpeg)
