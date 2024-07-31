@@ -7,7 +7,7 @@ redirect_from:
   - /thm3-networks
 ---
 
-Are species-rich ecosystems more stable and resilient? 
+<h3> Are species-rich ecosystems more stable and resilient? </h3>
 
 To explore this we study the equilibrium and nonequilibrium dynamics of networks where interactions (a) are nonlinear, (b) change over time, or (c) take multiple forms.
 
