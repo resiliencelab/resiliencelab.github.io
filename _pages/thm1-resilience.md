@@ -7,7 +7,7 @@ redirect_from:
   - /thm1-resilience
 ---
 
-When do big shocks collapse ecosystems into a persistent, degraded state? 
+<h3> When do big shocks collapse ecosystems into a persistent, degraded state? </h3>
 
 Our go-to study system for resilience have been kelp forests. Here, urchin herbivores can bulldoze lush forests into rocky barrens. It turns out this happens via animal behavior: forests collapse when urchins get too hungry to hide from storms, stress, and predators. Urchin barrens can then persist indefinitely even with high immigration of spores and larvae. As warming reduces kelp growth, it shifts the ecosystem’s tipping points [the SN bifurcation] towards large-scale urchin barrens in future climates (work in prep).
 
