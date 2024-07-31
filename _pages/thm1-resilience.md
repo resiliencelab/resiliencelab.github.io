@@ -20,4 +20,4 @@ Theoretically, we explore new feedbacks that can create multiple stable states (
 
 <ins>Conservation policy.</ins> How do we transition societies to sustainability quickly? Establishing the institutions required is often difficult, as we have seen with legally binding climate agreements. We discover that institutions at different scales synergistically promote sustainability adoption: focusing on regional climate agreements for now allows early adopters to hold their neighbors accountable. As local efforts ratchet up commitment, shifting to global agreements becomes critical to sway along hold-out countries.
 
-
+<p align="center"> <img src="/files/Hierarchy.png" width=300> </p>
