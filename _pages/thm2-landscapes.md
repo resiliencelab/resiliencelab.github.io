@@ -7,7 +7,7 @@ redirect_from:
   - /thm2-landscapes
 ---
 
-<h3> Environment and species composition often vary across a landscape. Do ecological dynamics – the emergent ‘clockwork’ – change from place to place as well? </h3>
+<h3> Environment and species composition vary greatly across a landscape. Do ecological dynamics – the emergent ‘clockwork’ – change from place to place as well? </h3>
 
 To surmount the near-lack of data on this, we model landscape dynamics by leveraging spatial patterning, individual trait, and spatial time series data. This informs classical debates among competing hypotheses and reveals locations most sensitive to disturbance (climate change, invasions).
 
