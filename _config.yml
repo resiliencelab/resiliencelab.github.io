@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Vadim Karatayev"
-  avatar           : "files/kelp avatar.png"
+  avatar           : "kelp avatar.png"
   bio              : "Assistant Professor"
   location         : "College Park, Maryland"
   employer         :
