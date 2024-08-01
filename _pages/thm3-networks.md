@@ -13,7 +13,7 @@ To explore this we study the equilibrium and nonequilibrium dynamics of networks
 
 <ins>Dynamic species interactions.</ins> Longstanding, beautiful theory suggests not: large, strongly interconnected systems should fall apart. Could stability and diversity coexist when, in reality, species interactions are highly intermittent in space and time? [I am currently looking for a postdoc to work on this question](/files/Dynamic Interactions postdoc ad 2014.pdf).
 
-<ins>Does diversity promote resilience?</ins> It is tempting to say ‘yes’, as less-impacted species can help their partners recover from disturbance. Modelling consumer collapse in food webs, we found greater resilience with diversity in ecosystems where species have high functional redundancy. But with low functional redundancy, diversity creates weakest-link dynamics: the collapse of one vulnerable species cascades through an ecosystem ([American Naturalist 2023](/files/papers2/Karatayev et al 2023 FW resilience + SI.pdf)).
+[Does diversity promote resilience?](/files/papers2/Karatayev et al 2023 FW resilience + SI.pdf) It is tempting to say ‘yes’, as less-impacted species can help their partners recover from disturbance. Modelling consumer collapse in food webs, we found greater resilience with diversity in ecosystems where species have high functional redundancy. But with low functional redundancy, diversity creates weakest-link dynamics: the collapse of one vulnerable species cascades through an ecosystem.
 
 <p align="center"> <img src="/files/coral reef diversity.png" width=500> </p>
 
