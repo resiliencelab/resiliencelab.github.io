@@ -15,7 +15,7 @@ To surmount the near-lack of data on this, we model landscape dynamics by levera
 
 <p align="center"> <img src="/files/landscape dynamics.png" width=525> </p>
 
-<ins>Epidemic management.</ins> Developing and fitting province-wide COVID-19 epidemic models in May 2020, we found slower epidemic growth in less densely populated areas. This was maintained even when simulating normal commuting patterns among counties. Thus, flexible county-by-county outperformed province-wide lockdowns ([PNAS 2020](/files/papers2/Karatayev et al 2020 PNAS.pdf)].
+[Epidemic management.](/files/papers2/Karatayev et al 2020 PNAS.pdf) Developing and fitting province-wide COVID-19 epidemic models in May 2020, we found slower epidemic growth in less densely populated areas. This was maintained even when simulating normal commuting patterns among counties. Thus, flexible county-by-county outperformed province-wide lockdowns.
 
 <p align="center"> <img src="/files/covid dynamics.png" width=450> </p>
 
