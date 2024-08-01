@@ -7,7 +7,7 @@ redirect_from:
   - /join
 ---
 
-Our lab has an opening for a quantitative postdoc scholar to explore how dynamic species interactions shape food webs - [please see the ad here](files/Dynamic Interactions postdoc ad 2024.pdf). This project will involve analysis of time series analysis with existing tools (rooted in [Sugihara et al 2012](https://www.science.org/doi/10.1126/science.1227079)), as well as opportunities to pursue marine- or theory-focused research. 
+Our lab has an opening for a quantitative postdoc scholar to explore how dynamic species interactions shape food webs - [please see the ad here](/files/Dynamic Interactions postdoc ad 2024.pdf). This project will involve analysis of time series analysis with existing tools (rooted in [Sugihara et al 2012](https://www.science.org/doi/10.1126/science.1227079)), as well as opportunities to pursue marine- or theory-focused research. 
 
 If you’re interested, please email Vadim a description of your research interests, goals for your postdoc, and a CV to start a conversation.
 
