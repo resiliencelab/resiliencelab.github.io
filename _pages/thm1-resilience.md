@@ -9,7 +9,7 @@ redirect_from:
 
 <h3> When do big shocks collapse ecosystems into a persistent, degraded state? </h3>
 
-Our go-to study system for resilience have been kelp forests. Here, urchin herbivores can bulldoze lush forests into rocky barrens. [It turns out this happens via animal behavior:](/files/papers2/Karatayev et al 2021 behavior + SI.pdf) forests collapse when urchins get too hungry to hide from storms, stress, and predators. Urchin barrens can then persist indefinitely [even with mass immigration of spores and larvae](/files/papers2/Karatayev and Baskett 2020 + SI.pdf). As warming reduces kelp growth, it shifts the ecosystem’s tipping points [the SN bifurcation] towards large-scale urchin barrens in future climates (_In preparation_).
+Our go-to study system for resilience have been kelp forests. Here, urchin herbivores can bulldoze lush forests into rocky barrens. [It turns out this happens via animal behavior:](/files/papers2/Karatayev et al 2021 behavior + SI.pdf) forests collapse when urchins get too hungry to hide from storms, stress, and predators. Urchin barrens can then persist indefinitely [even with mass immigration of spores and larvae from adjacent forests](/files/papers2/Karatayev and Baskett 2020 + SI.pdf). As warming reduces kelp growth, it shifts the ecosystem’s tipping points [the SN bifurcation] towards large-scale urchin barrens in future climates (_In preparation_).
 
 <p align="center"> <img src="/files/warming tipping points.png" width=600> </p>
 
