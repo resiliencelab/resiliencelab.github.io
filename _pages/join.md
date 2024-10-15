@@ -6,8 +6,6 @@ author_profile: true
 redirect_from:
   - /join
 ---
-We are a new lab and have a wonderful mathematical biology community at UMD comprising the labs of Bill Fagan (animal movement), Joshua Weitz (microbial ecology), Emme Bruns (plant-pathogen eco-evo), Phillip Johnson (immune dynamics), and Abba Gumel (epidemics).
-
 We have an opening for a quantitative postdoc scholar to explore how dynamic species interactions shape food webs - [please see the ad here](/files/Dynamic Interactions postdoc ad 2024.pdf). This project will involve analysis of time series analysis with existing tools (rooted in [Sugihara et al 2012](https://www.science.org/doi/10.1126/science.1227079)), as well as opportunities to pursue marine- or theory-focused research. 
 
 If you’re interested, please email Vadim a description of your research interests, goals for your postdoc, and a CV to start a conversation.
@@ -21,5 +19,6 @@ Graduate students in the lab use dynamical models as their primary methodology (
 Selecting an advisor that suits your interests and needs is critical to being happy and successful. We hope your interests include one or more of the following: **ecosystem resilience, population dynamics, marine ecology, and questions involving time series or spatial pattern analysis**. To start a conversation, please drop Vadim an email with:
 * Your CV
 * An unofficial transcript
-* Research interests (including why you want to work in this lab)
+* Research interests (including why you want to work in this lab specifically)
 
+We are a new lab and have a wonderful mathematical biology community at UMD comprising the labs of Bill Fagan (animal movement), Joshua Weitz (microbial ecology, epidemics), Emme Bruns (plant-pathogen eco-evo), Phillip Johnson (immune dynamics), and Abba Gumel (epidemics).
