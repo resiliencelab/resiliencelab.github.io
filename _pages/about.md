@@ -9,7 +9,7 @@ Hi! We seek to understand the structure and resilience of biological systems - o
 <!-- We’re a new lab in a (quite quantitative) Biology department, and right next to the Math and Computer Science departments at UMD College Park. -->
 
 Math perspective: \
-We explore how cycles, chaos, and phase shifts among attractors play out across networks - in particular, networks with heterogeneous nodes or dynamic interactions. For this, we use attractor reconstruction (aka Takens theorem) and Gaussian Processes (aka ‘deep’ ML) alongside classical approaches like ODEs, integrodifference DEs, random matrices, and maximum likelihood. Foremost, we focus on finding novel dynamics and the simplest models that capture them.
+We explore how cycles, chaos, and phase shifts among attractors play out across networks - in particular, networks with heterogeneous nodes or dynamic interactions. For this, we use attractor reconstruction (aka Takens theorem) and Gaussian Processes (aka ‘deep’ machine learning) alongside classical approaches like ODEs, integrodifference equations, random matrices, and maximum likelihood. Foremost, we focus on finding novel dynamics and the simplest models that capture them.
 
 
 Ecology perspective: \
