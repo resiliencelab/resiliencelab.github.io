@@ -11,9 +11,8 @@ Hi! We seek to understand the structure and resilience of biological systems - o
 Math perspective: \
 We explore how cycles, chaos, and phase shifts among attractors play out across networks - in particular, networks with heterogeneous nodes or dynamic interactions. For this, we use attractor reconstruction (aka Takens theorem) and Gaussian Processes (aka ‘deep’ machine learning) alongside classical approaches like ODEs, integrodifference equations, random matrices, and maximum likelihood. Foremost, we focus on finding novel dynamics and the simplest models that capture them.
 
-
 Ecology perspective: \
-We build simple dynamical models that incorporate competing ecological hypotheses, fit these models to spatiotemporal data, and see which model (ie, hypothesis) better explains patterns in nature. By fitting mechanistic models, we also get estimates of ecological rates, interactions, and resilience “for free”. These are critical for management but notoriously hard to measure in the field. 
+We look for the key ecological processes that predominantly shape ecosystems, and ecosystem resilience in particular. Depending on the system, these key processes range from competition and climate change to animal behavior. To do this, we build simple models that incorporate competing ecological hypotheses, fit these models to spatiotemporal data, and see which model (ie, hypothesis) better explains patterns in nature. When fitting mechanistic dynamical models, we also get estimates of ecological rates, interactions, and resilience “for free”. These are critical for management but notoriously hard to measure in the field. 
 
 <!-- Note that we are primarily excited for fundamental rather than applied questions. While we often find insights into management and climate change, whether they arise is often difficult to anticipate in basic research. -->
 
