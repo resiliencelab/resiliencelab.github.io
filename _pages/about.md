@@ -14,7 +14,7 @@ We explore how cycles, chaos, and phase shifts among attractors play out across 
 
 
 **Ecology perspective:** \
-We look for the key ecological processes that predominantly shape ecosystems, and ecosystem resilience in particular. Depending on the system, these key processes range from competition and climate change to animal behavior. 
+We look for the key ecological processes that predominantly shape ecosystems, and ecosystem resilience in particular. Depending on the system, these processes range from competition and climate change to animal behavior. 
 
 To do this, we build simple models that incorporate competing ecological hypotheses, fit these models to spatiotemporal data, and see which model (ie, hypothesis) better explains patterns in nature. When fitting mechanistic dynamical models, we also get estimates of ecological rates, interactions, and resilience “for free”. These are critical for management but notoriously hard to measure in the field. 
 
