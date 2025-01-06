@@ -8,7 +8,7 @@ redirect_from:
 ---
 <!--We have an opening for a quantitative postdoc scholar to explore how dynamic species interactions shape food webs - [please see the ad here](/files/Postdoc ad 2024_2.pdf). This project will involve analysis of time series analysis with existing tools (rooted in [Sugihara et al 2012](https://www.science.org/doi/10.1126/science.1227079)), as well as opportunities to pursue marine- or theory-focused research. -->
 
-We're always looking for graduate students and postdocs from biology or applied math who have a keen interest and a little experience (courses or reading stuff) in ecology. Vadim is also happy to help you write an NSF graduate research fellowship or and NSF postdoctoral research fellowship (sadly these are only available to US citizens or permanent residents).
+We're always looking for graduate students and postdocs from biology or applied math who have a keen interest and a little experience (courses or reading stuff) in ecology. Vadim is also happy to help you write an NSF graduate research fellowship or and NSF postdoctoral research fellowship (US citizens or permanent residents only :( ).
 
 If you’re interested, please email Vadim a description of your research interests, goals for your postdoc, and a CV to start a conversation.
 
