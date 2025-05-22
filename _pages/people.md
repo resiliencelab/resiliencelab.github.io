@@ -18,5 +18,7 @@ redirect_from:
 We have two summer interns using attractor reconstruction to forecast climate change impacts on malaria epidemics.
 
 <h3> PI:</h3>
+
+<img align="right" width="150" src="/images/vadimProfile.jpg">
 **Vadim Karatayev** I use a combination of math and field data (and inevitably stats) to study catastrophes and network dynamics. I love finding novel dynamics in biological complexity and then finding the simplest models that capture those novel dynamics.
 
