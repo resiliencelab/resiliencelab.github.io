@@ -2,7 +2,7 @@
 layout: archive
 title: "Landscape Dynamics"
 permalink: /thm2-landscapes/
-author_profile: true
+author_profile: false
 redirect_from:
   - /thm2-landscapes
 ---
