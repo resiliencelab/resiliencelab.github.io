@@ -16,7 +16,7 @@ If you’re interested, please email Vadim a description of your research intere
 
 &nbsp;
 
-For prospective graduate students:
+**For prospective graduate students:**
 
 Graduate students in the lab use dynamical models as their primary methodology (i.e., using mathematical modeling and computer simulations). This may entail a primarily theoretical thesis or a thesis that combines dynamical models, statistics, and existing data to answer questions in a specific system. Students pursue their own research questions, so having some prior research experience is required. Applicants would also be expected to have a strong background in data science _or_ mathematical modeling. We also all actively work to create a supportive, inclusive, and collaborative atmosphere where lab members learn from, help, and inspire each other.
 
