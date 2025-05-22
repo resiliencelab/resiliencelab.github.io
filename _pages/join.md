@@ -6,9 +6,11 @@ author_profile: true
 redirect_from:
   - /join
 ---
-<!--We have an opening for a quantitative postdoc scholar to explore how dynamic species interactions shape food webs - [please see the ad here](/files/Postdoc ad 2024_2.pdf). This project will involve analysis of time series analysis with existing tools (rooted in [Sugihara et al 2012](https://www.science.org/doi/10.1126/science.1227079)), as well as opportunities to pursue marine- or theory-focused research. -->
+<!--We have an opening for a theory postdoc scholar to explore how key aspects of nature shape the diversity-stability paradox in ecosystems - [please see the ad here](/files/Postdoc ad 2025.pdf). -->
 
-We're always looking for graduate students and postdocs from biology or applied math who have a keen interest and a little experience (courses or reading stuff) in ecology. Vadim is also happy to help you write an NSF graduate research fellowship or and NSF postdoctoral research fellowship (US citizens or permanent residents only :( ).
+<!--We also have an opening for a funded PhD student inteested in theory and analyzing field data on food web dynamics. -->
+
+We're always looking for graduate students and postdocs from biology or applied math who have a keen interest and a little experience (courses or reading stuff) in ecology. Graduate students typically apply for the NSF graduate research fellowship or and NSF postdoctoral research fellowship.
 
 If you’re interested, please email Vadim a description of your research interests, goals for your postdoc, and a CV to start a conversation.
 
@@ -23,4 +25,4 @@ Selecting an advisor that suits your interests and needs is critical to being ha
 * An unofficial transcript
 * Research interests (including why you want to work in this lab specifically)
 
-We are a new lab and have a wonderful mathematical biology community at UMD comprising the labs of Bill Fagan (animal movement), Joshua Weitz (microbial ecology, epidemics), Emme Bruns (plant-pathogen eco-evo), Phillip Johnson (immune dynamics), and Abba Gumel (epidemics).
+We are a new lab and have a wonderful mathematical biology community at UMD comprising the labs of Bill Fagan (theoretical ecology, animal movement), Joshua Weitz (microbial ecology, epidemics), Emme Bruns (plant-pathogen eco-evo), Phillip Johnson (immune dynamics), Abba Gumel (math, epidemics), and Michelle Girvan (physics, networks).
