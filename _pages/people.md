@@ -9,7 +9,7 @@ redirect_from:
 
 <h3> Postdocs:</h3>
 
-<img align="right" width="150" src="/images/amy_lake.pdf">
+<img align="right" width="150" src="/files/amy_lake.pdf">
 **Amy Patterson** I'm a theoretical ecologist with interests in population dynamics, eco-evolutionary dynamics, and invasive species. I use mathematical and statistical models to understand and predict how species react in a changing world.
 [Amy's website](https://amypatterson76.wixsite.com/patterson-ecology)
 
@@ -19,6 +19,6 @@ We have two summer interns using attractor reconstruction to forecast climate ch
 
 <h3> PI:</h3>
 
-<img align="right" width="150" src="/images/vadimProfile.jpg">
+<img align="right" width="150" src="/files/vadimProfile.jpg">
 **Vadim Karatayev** I use a combination of math and field data (and inevitably stats) to study catastrophes and network dynamics. I love finding novel dynamics in biological complexity and then finding the simplest models that capture those novel dynamics.
 
