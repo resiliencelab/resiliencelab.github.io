@@ -19,6 +19,6 @@ We have two summer interns using attractor reconstruction to forecast climate ch
 
 <h3> PI:</h3>
 
-<img align="right" width="150" src="/files/vadimProfile.jpg">
+<img align="right" width="150" src="/files/vadimProfile.JPG">
 **Vadim Karatayev** I use a combination of math and field data (and inevitably stats) to study catastrophes and network dynamics. I love finding novel dynamics in biological complexity and then finding the simplest models that capture those novel dynamics.
 
