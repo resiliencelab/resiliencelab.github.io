@@ -9,7 +9,7 @@ redirect_from:
 
 <h3> Postdocs:</h3>
 
-<img align="right" width="250" src="/files/amy_lake.png">
+<img align="right" width="75" src="/files/amy_lake.png">
 **Amy Patterson** I'm a theoretical ecologist with interests in population dynamics, eco-evolutionary dynamics, and invasive species. I use mathematical and statistical models to understand and predict how species react in a changing world.
 [Amy's website](https://amypatterson76.wixsite.com/patterson-ecology)
 
