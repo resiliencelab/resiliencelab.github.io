@@ -9,7 +9,6 @@ html {
 
 body {
   margin: 0;
-  margin-top: 30em; /* for fixed menu bar at top */
   padding: 0;
   padding-bottom: 9em;
   color: $text-color;
@@ -30,7 +29,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  margin-top: 0;
+  margin-top: 3em;
   font-size: $type-size-3;
 }
 
@@ -170,7 +169,7 @@ ol li {
 
 li ul,
 li ol {
-  margin-top: 0.5em;
+  margin-top: 3em;
 }
 
 /*
@@ -302,7 +301,7 @@ nav {
 
   li ul,
   li ol {
-    margin-top: 0;
+    margin-top: 3em;
   }
 }
 
