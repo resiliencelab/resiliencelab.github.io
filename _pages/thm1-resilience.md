@@ -2,7 +2,7 @@
 layout: archive
 title: "Ecosystem Resilience"
 permalink: /thm1-resilience/
-author_profile: true
+author_profile: false
 redirect_from:
   - /thm1-resilience
 ---
