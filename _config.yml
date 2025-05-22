@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Vadim Karatayev"
+  name             : "PI: Vadim Karatayev"
   avatar           : "kelp avatar.png"
   bio              : "Assistant Professor"
   location         : "College Park, Maryland"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "VadimKar"
+  github           :
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "lifenonlinear"
+  twitter          :
   vine             :
   weibo            :
   xing             :
