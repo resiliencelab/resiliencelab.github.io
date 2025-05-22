@@ -5,7 +5,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<img align="right" width="225" src="/images/kelp%20avatar.png">
+<img align="right" width="300" src="/images/kelp%20avatar.png">
 
 Hi! We seek to understand the structure and resilience of biological systems - often marine ecosystems - in theory and in data. We use a ~50/50 mix of ecology and math, so check out the sections below for an idea of what we do and the tabs above for the questions we like - and our linked publications.
 <!-- We’re a new lab in a (quite quantitative) Biology department, and right next to the Math and Computer Science departments at UMD College Park. -->
