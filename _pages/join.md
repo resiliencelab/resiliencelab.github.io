@@ -9,7 +9,7 @@ redirect_from:
 
 We have an opening for a theory postdoc scholar to explore how key aspects of nature shape the diversity-stability paradox in ecosystems - [please see the ad here](https://docs.google.com/document/d/1vcA91tggtVh4cENjNIB8k3JJMEFgpDV3x_KRvQH8lRo/edit?usp=sharing).
 
-We also have an opening for a funded PhD student interested in ecological theory, food web modelling, or population dynamics. Looking for students with strong interests in fundamental ecology/biology (required) and experience (courses/research) in math and modelling (not required). [Here are some research directions our lab is interested in](https://docs.google.com/document/d/1KldaJ1Th4_KGLnFK_gn3wRDzUIH0h7SQTmw4MzZW-ts/edit?tab=t.0)
+We also have an opening for a funded PhD student interested in ecological theory, food web modelling, or population dynamics. Looking for students with strong interests in fundamental ecology/biology (required) and course or research experience in math and modelling (not required). [Here are some research directions our lab is interested in.](https://docs.google.com/document/d/1KldaJ1Th4_KGLnFK_gn3wRDzUIH0h7SQTmw4MzZW-ts/edit?tab=t.0)
 
 <!--We're always looking for graduate students and postdocs from biology or applied math who have a keen interest and a little experience (courses or reading stuff) in ecology. Graduate students typically apply for the NSF graduate research fellowship or and NSF postdoctoral research fellowship. -->
 
