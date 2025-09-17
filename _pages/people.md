@@ -14,11 +14,9 @@ redirect_from:
 [Amy's website](https://amypatterson76.wixsite.com/patterson-ecology)
 
 <br>
-<br>
 
 [Looking for a theory postdoc - Join Us!](https://resiliencelab.github.io/join/)
 
-<br>
 <br>
 <br>
 
@@ -37,15 +35,14 @@ Asa is a math undergraduate interested in systems of differential equations, app
 Helia is a biology undergraduate working on forecasting outbreak and range shifts of epidemics such as Malaria and Dengue fever with climate change using Empirical Dynamic Modelling.
 
 <br>
-<br>
 
 [Looking for a PhD student - Join Us!](https://resiliencelab.github.io/join/)
 
 <br>
 <br>
-<br>
 
 
-<img align="right" width="250" src="/files/vadimProfile.JPG">
-**Vadim Karatayev** I use a combination of math and field data (and inevitably stats) to study catastrophes and network dynamics. I love finding novel dynamics in biological complexity and then finding the simplest models that capture those novel dynamics.
+<h3> PI: Vadim Karatayev</h3>
+<img align="right" width="250" src="/files/photos/vadim2025.jpeg">
+I use a combination of math and field data (and inevitably stats) to study catastrophes and network dynamics. I love finding novel dynamics in biological complexity and then finding the simplest models that capture those novel dynamics.
 
