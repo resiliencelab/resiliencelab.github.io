@@ -43,6 +43,6 @@ Helia is a biology undergraduate working on forecasting outbreak and range shift
 
 
 <h3> PI: Vadim Karatayev</h3>
-<img align="right" width="250" src="/files/photos/vadim2025.jpeg">
+<img align="right" width="180" src="/files/photos/vadim2025.jpeg">
 I use a combination of math and field data (and inevitably stats) to study catastrophes and network dynamics. I love finding novel dynamics in biological complexity and then finding the simplest models that capture those novel dynamics.
 
