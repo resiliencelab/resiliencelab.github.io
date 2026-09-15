@@ -17,13 +17,14 @@ redirect_from:
 <br>
 <br>
 
-**Zachary Jackson** is a theoretical physicist interested in a range of cross-system ecological questions, like how adaptive foraging controls the effect of diversity on ecosystem stability.
+<img align="right" width="115" src="/files/photos/Jackson_Headshot.jpg">
+**Zachary Jackson** I use the tools of dynamical systems and statistical physics to understand the behavior of complex biological systems. I investigate big questions in ecological dynamics through analytical, numerical, and data centered techniques. Zack is currently looking at adaptive foraging controls the effect of diversity on ecosystem stability.
 
 <br>
 <br>
 <br>
 
-<img align="right" width="115" src="/files/photos/amy_lake.png">
+<img align="right" width="115" src="/files/photos/photo-james-richardson.png">
 **James Richardson** I am a theoretical ecologist with a background in math. I'm interested in understanding how the interactions species have with one another, often mediated through their impacts on their shared environment, contribute to species coexistence and ecosystem resilience. 
 
 <br>
@@ -32,32 +33,35 @@ redirect_from:
 
 <h3> Graduate students:</h3>
 
-<img align="right" width="115" src="/files/photos/helia.jpeg">
+<img align="right" width="115" src="/files/photos/Ethan-Rappaport.jpg">
 **Ethan Rappaport**
 My research uses mathematical models to investigate ecological and evolutionary dynamics in microbial systems. I’m particularly interested in the mechanisms underlying species coexistence and in developing theory to understand and steer microbial dynamics and evolution. Ethan is based in the Weitz group.
 
+<br>
+<br>
+<br>
+<br>
 
 **[Looking for a PhD student - Join us!](https://resiliencelab.github.io/join/)** Position fully funded (~1/3 TA and 2/3 research assistantsip). Can focus on ecological theory (e.g., food webs, dynamic interactions, bacterial community dynamics) or modeling empirical marine population dynamics.
 
+<br>
+<br>
 <br>
 <br>
 
 <h3> Undergraduate researchers:</h3>
 
 
-
-
-
-
-<br>
-
 <img align="right" width="115" src="/files/photos/helia.jpeg">
 **Helia Eshaghi**
 Helia is a biology undergraduate working on forecasting outbreak and range shifts of epidemics such as Malaria and Dengue fever with climate change using Empirical Dynamic Modelling.
 
-<img align="right" width="115" src="/files/photos/helia.jpeg">
+<br>
+<br>
+
+
 **Ethan Hawkes**
-Helia is a biology undergraduate working on forecasting outbreak and range shifts of epidemics such as Malaria and Dengue fever with climate change using Empirical Dynamic Modelling.
+Ethan is a biology undergraduate working on forecasting range shifts of trees as well as epidemics such as Malaria and Dengue fever with climate change.
 
 <br>
 <br>
@@ -69,6 +73,10 @@ I use a combination of math and field data (and inevitably stats) to study catas
 
 
 
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 
