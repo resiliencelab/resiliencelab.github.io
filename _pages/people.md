@@ -59,9 +59,9 @@ Helia is a biology undergraduate working on forecasting outbreak and range shift
 <br>
 <br>
 
-
+<img align="right" width="140" src="/files/photos/hawkes.jpg">
 **Ethan Hawkes**
-Ethan is a biology undergraduate working on forecasting range shifts of trees as well as epidemics such as Malaria and Dengue fever with climate change.
+I'm an Environmental Science and Policy undergraduate focused on using climate datasets to model and forecast mosquito-borne illness and pest movement. I am interested in better understanding how a rapidly changing world will affect critical species and communities worldwide, and how we can help better adapt to these changes. 
 
 <br>
 <br>
